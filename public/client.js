@@ -93,7 +93,6 @@ const node = document.createTextNode(arr);
 para.appendChild(node);
 // dot.addEventListener('click', ()=>{
 //     document.querySelector('.container').before(para);
-// })
 
 
 
