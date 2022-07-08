@@ -37,6 +37,7 @@ h1{
     color: white;
     max-width: 40%;
     margin: 5px 15;
+    /* height: 50px; */
     height: auto;
     border-radius: 30px;
     line-height: 50px;
