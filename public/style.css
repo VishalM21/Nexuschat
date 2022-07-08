@@ -4,14 +4,11 @@
     width: 70px;
     height: 70px;
     margin-bottom: 0px;
-    /* display: inline-block; */
-    /* margin-right: 200px; */
-    /* margin-left: 250px; */
  
 }
 body{
     background-color: #3e3d3e;
-    /* text-align: center; */
+
   
 }
 h1{
@@ -30,13 +27,16 @@ h1{
     padding-top: 20px;
     overflow: scroll;
     overflow-y: auto;
+    overflow-x:hidden;
+    padding-bottom: 5px;
+  
     /* border-radius: 20px; */
 
 }
 .msg{
     background-color: #1d1b19 ;
     color: white;
-    width: 40%;
+    max-width: 40%;
     margin: 5px 15;
     /* height: 50px; */
     height: auto;
@@ -44,8 +44,8 @@ h1{
     line-height: 50px;
    
     padding-left: 20px;
-
-
+    padding-right: 20px;
+    word-wrap: break-word;
 }
 .msg2{
     background-color: black;
@@ -96,6 +96,10 @@ h1{
     border: solid;
     border-color: black;
     padding-right: 20px;
+    padding-top: 12px;
+    line-height: 1.6;
+    /* position:absolute; */
+    /* bottom: 20px; */
 }
 .btn{
     border-radius: 30px;
@@ -106,15 +110,24 @@ h1{
     border-color: #afa7ae;
     color: white;
     font-size: 15px;
+    position: relative;
+    bottom: 18px;
 
 
 }
 
+/* textarea::-webkit-scrollbar{
+    width: 0px;
+} */
+
 @media only screen and (max-width:600px) {
 
    .msg{
-    height: 35px;
-    line-height: 37px;
+      
+       line-height: 37px;
+       line-height: 1.5;
+       padding: 7 23;
+       max-width: 50%;
    }
    .btn{
     position: relative;
