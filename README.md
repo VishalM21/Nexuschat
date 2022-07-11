@@ -8,4 +8,4 @@ in the project directory run this command
 
 Now to go http://localhost:3000/
 
-Enter your name Now open that link in another tab and Enter name and message each other you can join more people buy opening that link
+Enter your name Now open that link in another tab and Enter name and message each other you can join more people by opening that link
