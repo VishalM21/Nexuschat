@@ -1,4 +1,4 @@
-# Chatting-Web-App
+# Nexuschat
 This is a Responsive chatting web app you can chat with your friends here
 
 # TO RUN
