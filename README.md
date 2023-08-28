@@ -1,7 +1,8 @@
 # Nexuschat
 This is a Responsive chatting web app you can chat with your friends here
 
-![Alt Text]([URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fphoto&psig=AOvVaw3wSfQniFEhFHBFLJz2OFeA&ust=1693298455982000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjE77n6_oADFQAAAAAdAAAAABAE))
+<img width="1401" alt="Screenshot 2023-08-28 at 1 54 03 PM" src="https://github.com/VishalM21/Nexuschat/assets/83207869/18efcf38-517e-491e-af6e-bc705a9e096b">
+
 
 # TO RUN
 in the project directory run this command
